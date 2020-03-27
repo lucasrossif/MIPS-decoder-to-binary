@@ -1,13 +1,17 @@
-# MIPS decoder to binary
+# MIPS decoder to binary :computer:
 
-# For Ubuntu
+## How use
+1. $ mkdir build && cd build
+2. $ cmake ../
+3. $make
+4. ./hello
+
+##dependencies
+**For Ubuntu**
 $ sudo apt-get install cmake
-# For Redhat
+
+**For Redhat**
 $ yum install cmake
-# For Mac OS X with brew
+
+**For Mac OS X with brew**
 $ brew install cmake
-mkdir build && cd build
-$ mkdir build && cd build
-$ cmake ../
-$ make
-$ ./hello
