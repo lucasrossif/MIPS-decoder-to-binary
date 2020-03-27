@@ -6,3 +6,4 @@ $ sudo apt-get install cmake
 $ yum install cmake
 # For Mac OS X with brew
 $ brew install cmake
+mkdir build && cd build
