@@ -1,4 +1,8 @@
 # MIPS decoder to binary
-******************************
-## Dependencies
- sudo apt-get install cmake
+
+# For Ubuntu
+$ sudo apt-get install cmake
+# For Redhat
+$ yum install cmake
+# For Mac OS X with brew
+$ brew install cmake
