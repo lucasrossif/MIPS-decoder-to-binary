@@ -6,7 +6,7 @@
 3. $make
 4. ./hello
 
-##dependencies
+## Dependencies
 **For Ubuntu**
 $ sudo apt-get install cmake
 
